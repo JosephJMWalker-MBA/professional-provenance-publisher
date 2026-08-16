@@ -1,8 +1,13 @@
-import { renderEdgeAI } from './render-edge-ai.mjs';
 import { renderSystems } from './render-systems.mjs';
+import { renderDeploymentEvidence } from './render-deployment-evidence.mjs';
+import { renderPublications } from './render-publications.mjs';
 import { renderEducation } from './render-education.mjs';
 import { renderTechnicalEnvironment } from './render-technical-environment.mjs';
-import { renderAchievements } from './render-achievements.mjs';
-import { renderPrinciples } from './render-principles.mjs';
 
-export const renderDetails=(resume={})=>[renderEdgeAI(resume.edgeAI),renderSystems(resume.systems),renderEducation(resume.education),renderTechnicalEnvironment(resume.technicalEnvironment),renderAchievements(resume.achievements),renderPrinciples(resume.principles)].filter(Boolean).join('');
+export const renderDetails=(resume={})=>[
+  renderSystems(resume.systems),
+  renderDeploymentEvidence(resume.deploymentEvidence),
+  renderPublications(resume.publications),
+  renderEducation(resume.education),
+  renderTechnicalEnvironment(resume.technicalEnvironment)
+].filter(Boolean).join('');
