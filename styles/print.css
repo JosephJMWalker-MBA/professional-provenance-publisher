@@ -90,8 +90,16 @@ li { margin-bottom: 0.024in; }
 .capability-group h3 { font-size: 9.45px; margin-bottom: 0.032in; }
 .capability-group li { font-size: 8.45px; line-height: 1.24; }
 
-.deployment-evidence ul { gap: 0.035in 0.155in; }
-.deployment-evidence li { font-size: 8.55px; line-height: 1.25; }
+.deployment-evidence ul,
+.achievements ul {
+  display: grid;
+  gap: 0.035in 0.155in;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 0;
+}
+
+.deployment-evidence li,
+.achievements li { font-size: 8.55px; line-height: 1.25; }
 
 .systems { gap: 0.095in 0.155in; }
 .system-card { padding-top: 0.065in; }
