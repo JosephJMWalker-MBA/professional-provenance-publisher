@@ -231,14 +231,16 @@ li { margin: 0 0 3px; }
   content: " •";
 }
 
-.deployment-evidence ul {
+.deployment-evidence ul,
+.achievements ul {
   display: grid;
   gap: 4px 18px;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   margin-top: 0;
 }
 
-.deployment-evidence li { font-size: 9.4px; }
+.deployment-evidence li,
+.achievements li { font-size: 9.4px; }
 
 .systems {
   display: grid;
@@ -379,7 +381,8 @@ li { margin: 0 0 3px; }
   .publications,
   .education,
   .technical-environment,
-  .deployment-evidence ul { grid-template-columns: 1fr; }
+  .deployment-evidence ul,
+  .achievements ul { grid-template-columns: 1fr; }
   .capabilities > h2,
   .systems > h2,
   .publications > h2,
