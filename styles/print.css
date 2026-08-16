@@ -35,93 +35,93 @@ body {
   height: 11in;
   margin: 0;
   overflow: hidden;
-  padding: 0.42in 0.48in 0.38in;
+  padding: 0.43in 0.50in 0.40in;
   page-break-after: always;
   width: 8.5in;
 }
 
 .page:last-child { page-break-after: auto; }
 
-.masthead { padding-bottom: 0.10in; }
-.document-label { font-size: 7.8px; margin-bottom: 0.045in; }
+.masthead { padding-bottom: 0.11in; }
+.document-label { font-size: 8.2px; margin-bottom: 0.05in; }
 .identity h1,
-h1 { font-size: 23px; line-height: 1.02; }
-.role { font-size: 10.6px; margin-top: 0.045in; }
-.positioning { font-size: 9.8px; line-height: 1.28; margin-top: 0.055in; }
-address { font-size: 8.4px; line-height: 1.32; margin-top: 0.055in; }
+h1 { font-size: 24px; line-height: 1.02; }
+.role { font-size: 11.1px; margin-top: 0.05in; }
+.positioning { font-size: 10.25px; line-height: 1.31; margin-top: 0.06in; }
+address { font-size: 8.75px; line-height: 1.34; margin-top: 0.06in; }
 
 section:not(.page),
-.resume-footer { margin-top: 0.12in; }
+.resume-footer { margin-top: 0.145in; }
 
 h2 {
-  font-size: 8.7px;
-  gap: 0.07in;
-  margin-bottom: 0.055in;
+  font-size: 9.2px;
+  gap: 0.075in;
+  margin-bottom: 0.065in;
 }
 
-h3 { font-size: 10.2px; }
+h3 { font-size: 10.6px; }
 
 p,
 li,
 span,
 dd,
 dt {
-  font-size: 8.65px;
-  line-height: 1.28;
+  font-size: 9.25px;
+  line-height: 1.32;
 }
 
-p { margin-bottom: 0.035in; }
-ul { margin-top: 0.025in; padding-left: 0.14in; }
-li { margin-bottom: 0.018in; }
+p { margin-bottom: 0.042in; }
+ul { margin-top: 0.03in; padding-left: 0.15in; }
+li { margin-bottom: 0.022in; }
 
-.executive-profile p { font-size: 8.95px; line-height: 1.34; }
+.executive-profile p { font-size: 9.6px; line-height: 1.38; }
 
 .experience-item {
-  margin-bottom: 0.075in;
-  padding-left: 0.085in;
+  margin-bottom: 0.09in;
+  padding-left: 0.095in;
 }
 
-.experience-role { font-size: 8.25px; }
-.experience-period { font-size: 8px; }
-.experience-item ul { gap: 0; }
+.experience-role { font-size: 8.7px; }
+.experience-period { font-size: 8.45px; }
+.experience-item ul { gap: 0.006in; }
 
-.capabilities { gap: 0.06in 0.14in; }
-.capability-group { padding: 0.045in 0.065in 0.04in; }
-.capability-group h3 { font-size: 8.7px; margin-bottom: 0.025in; }
-.capability-group li { font-size: 7.75px; line-height: 1.2; }
+.capabilities { gap: 0.07in 0.15in; }
+.capability-group { padding: 0.055in 0.075in 0.05in; }
+.capability-group h3 { font-size: 9.2px; margin-bottom: 0.03in; }
+.capability-group li { font-size: 8.2px; line-height: 1.22; }
 
-.systems { gap: 0.07in 0.14in; }
-.system-card { padding-top: 0.05in; }
-.system-card h3 { font-size: 10.5px; }
-.system-subtitle { font-size: 7.45px; margin: 0.012in 0 0.035in; }
-.system-card > p:not(.system-subtitle):not(.validation) { font-size: 8.05px; line-height: 1.25; }
-.system-card ul { column-gap: 0.12in; margin-top: 0.02in; }
-.system-card li { font-size: 7.35px; line-height: 1.17; margin-bottom: 0.012in; }
-.validation { font-size: 7.4px; margin: 0.012in 0 0.025in; padding: 0.02in 0.04in; }
+.deployment-evidence ul { gap: 0.03in 0.15in; }
+.deployment-evidence li { font-size: 8.25px; line-height: 1.23; }
 
-.deployment-evidence ul { gap: 0.02in 0.14in; }
-.deployment-evidence li { font-size: 7.7px; line-height: 1.2; }
+.systems { gap: 0.085in 0.15in; }
+.system-card { padding-top: 0.06in; }
+.system-card h3 { font-size: 10.8px; }
+.system-subtitle { font-size: 7.7px; margin: 0.015in 0 0.04in; }
+.system-card > p:not(.system-subtitle):not(.validation) { font-size: 8.25px; line-height: 1.27; }
+.system-card ul { column-gap: 0.13in; margin-top: 0.025in; }
+.system-card li { font-size: 7.6px; line-height: 1.19; margin-bottom: 0.014in; }
+.validation { font-size: 7.65px; margin: 0.014in 0 0.03in; padding: 0.022in 0.045in; }
 
-.publications { gap: 0.05in 0.14in; }
-.publication-group h3 { font-size: 8.35px; margin-bottom: 0.025in; }
-.publication-group li { font-size: 7.35px; line-height: 1.18; }
-.publication-focus { font-size: 7.45px; line-height: 1.18; }
+.publications { gap: 0.055in 0.15in; }
+.publication-group h3 { font-size: 8.6px; margin-bottom: 0.03in; }
+.publication-group li { font-size: 7.55px; line-height: 1.19; }
+.publication-focus { font-size: 7.65px; line-height: 1.2; }
 
-.education { gap: 0.05in 0.13in; }
-.education-entry { padding-left: 0.065in; }
-.education-entry h3 { font-size: 8.9px; }
-.education-entry p { font-size: 7.45px; line-height: 1.18; margin-bottom: 0.012in; }
+.education { gap: 0.06in 0.14in; }
+.education-entry { padding-left: 0.075in; }
+.education-entry h3 { font-size: 9.1px; }
+.education-entry p { font-size: 7.65px; line-height: 1.2; margin-bottom: 0.014in; }
 
-.technical-environment { gap: 0.035in 0.13in; }
+.technical-environment { gap: 0.045in 0.14in; }
 .technical-environment h3,
-.technical-environment dt { font-size: 7.9px; }
+.technical-environment dt { font-size: 8.1px; }
 .technical-environment p,
 .technical-environment dd,
-.technical-environment li { font-size: 7.35px; line-height: 1.18; }
+.technical-environment li { font-size: 7.6px; line-height: 1.2; }
 
 .resume-footer {
-  font-size: 7.2px;
-  padding-top: 0.045in;
+  font-size: 7.5px;
+  padding-top: 0.05in;
 }
 
 @media print {
