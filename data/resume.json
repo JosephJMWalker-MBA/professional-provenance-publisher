@@ -65,14 +65,14 @@
       "items": [
         "Python",
         "TypeScript",
-        "JavaScript",
+        "Dart",
         "Swift",
+        "JavaScript",
+        "Flutter",
         "React",
         "Next.js",
         "REST APIs",
-        "SQL",
-        "Prisma",
-        "Testing & Release Engineering"
+        "SQL"
       ]
     },
     {
@@ -92,9 +92,9 @@
       "items": [
         "Product Architecture",
         "Technical Strategy",
-        "DevSecOps Practices",
+        "Automated Testing",
+        "CI/CD",
         "Production Deployment",
-        "Operational Workflows",
         "Technical Documentation",
         "Quality Assurance"
       ]
@@ -154,6 +154,32 @@
         "Printful automation",
         "Secure webhooks"
       ]
+    },
+    {
+      "name": "Published Mobile Applications",
+      "subtitle": "Production iOS & Cross-Platform Application Delivery",
+      "summary": "Published four applications through the Apple App Store, carrying products through application architecture, implementation, testing, store preparation, release, and post-release refinement.",
+      "highlights": [
+        "Swift / iOS",
+        "Dart / Flutter",
+        "App Store release workflow",
+        "Decision-support applications",
+        "Production testing",
+        "User-facing product delivery"
+      ]
+    },
+    {
+      "name": "Big Joke",
+      "subtitle": "Human Performance Intelligence Platform",
+      "summary": "Designed a structured creative workflow platform that turns unstructured ideas into reusable performance data through metadata classification, multimedia capture, practice analytics, and AI-assisted coaching architecture.",
+      "highlights": [
+        "Structured knowledge models",
+        "Metadata classification",
+        "Practice analytics",
+        "AI coaching framework",
+        "Multimedia capture",
+        "Production mobile delivery"
+      ]
     }
   ],
   "publications": {
@@ -207,10 +233,16 @@
       "details": "97th percentile national comprehensive assessment; strategy, finance, operations, information systems, and executive decision-making."
     },
     {
-      "institution": "Kent State University",
-      "credential": "Business Management, Chemistry & Microbiology coursework",
+      "institution": "Walsh University",
+      "credential": "Bachelor of Science — Molecular Biology • Chemistry • Business Management",
       "year": "",
-      "details": "Departmental Honors."
+      "details": "Completed undergraduate degree at Walsh University after beginning undergraduate study at Kent State University; Magna Cum Laude."
+    },
+    {
+      "institution": "Kent State University",
+      "credential": "Prior Undergraduate Study",
+      "year": "",
+      "details": "Business Management, Chemistry, and Microbiology coursework; Departmental Honors."
     },
     {
       "institution": "Federal Aviation Administration",
@@ -223,9 +255,23 @@
     "Languages": [
       "Python",
       "TypeScript",
-      "JavaScript",
+      "Dart",
       "Swift",
+      "JavaScript",
       "SQL"
+    ],
+    "Mobile": [
+      "Flutter",
+      "Swift / iOS",
+      "Apple App Store release workflows"
+    ],
+    "Web / Application": [
+      "React",
+      "Next.js",
+      "Flask",
+      "Node.js",
+      "REST APIs",
+      "Tailwind CSS"
     ],
     "AI / ML": [
       "OpenAI",
@@ -237,34 +283,24 @@
       "AI Agents",
       "LangChain"
     ],
-    "Frameworks": [
-      "React",
-      "Next.js",
-      "Flask",
-      "Node.js",
-      "Tailwind CSS"
-    ],
-    "Data / Infra": [
+    "Data / Tooling": [
       "Prisma",
       "MySQL",
       "SQLite",
       "Docker",
-      "GitHub",
-      "Vercel"
-    ],
-    "Delivery": [
-      "Automated testing",
-      "CI/CD",
-      "Apple App Store",
-      "Production web deployment",
-      "Technical documentation"
+      "Git",
+      "GitHub Actions",
+      "Playwright",
+      "Vitest"
     ]
   },
   "deploymentEvidence": [
     "Production Python application and multiple deployed full-stack web systems.",
     "Four applications published through the Apple App Store.",
     "Production e-commerce, payment, fulfillment, webhook, analytics, and administrative workflows.",
-    "FAA Part 107 field operations and repeatable aerial-inspection reporting workflows."
+    "FAA Part 107 field operations and repeatable aerial-inspection reporting workflows.",
+    "Automated test suites, CI/CD verification, release workflows, and evidence-oriented technical documentation.",
+    "Production work spanning Python, TypeScript, Swift, Dart/Flutter, computer vision, OCR, and AI-assisted decision support."
   ],
   "footer": "Research → Architecture → Implementation → Deployment → Validation"
 }
