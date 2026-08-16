@@ -180,6 +180,32 @@
         "Multimedia capture",
         "Production mobile delivery"
       ]
+    },
+    {
+      "name": "729-HTML-100",
+      "subtitle": "Semantic Publishing & Knowledge Infrastructure",
+      "summary": "Built a secure semantic publishing platform emphasizing multilingual public knowledge, accessibility, institutional memory, privacy-preserving search, and operational stewardship.",
+      "highlights": [
+        "Semantic publishing",
+        "Multilingual architecture",
+        "Browser-local semantic search",
+        "Security-first deployment",
+        "Steward portal",
+        "Static knowledge infrastructure"
+      ]
+    },
+    {
+      "name": "Aerial Inspection Platform",
+      "subtitle": "Operational Evidence & Reporting System",
+      "summary": "Developed operational software supporting regulated aerial inspection workflows, evidence management, reporting, and infrastructure documentation under FAA Part 107 operating constraints.",
+      "highlights": [
+        "Remote sensing workflows",
+        "Thermal imaging",
+        "RTK mapping",
+        "Evidence management",
+        "Technical reporting",
+        "Operational documentation"
+      ]
     }
   ],
   "publications": {
@@ -301,6 +327,12 @@
     "FAA Part 107 field operations and repeatable aerial-inspection reporting workflows.",
     "Automated test suites, CI/CD verification, release workflows, and evidence-oriented technical documentation.",
     "Production work spanning Python, TypeScript, Swift, Dart/Flutter, computer vision, OCR, and AI-assisted decision support."
+  ],
+  "achievements": [
+    "1,127 passing automated tests in Hermeneia as of August 14, 2026.",
+    "Four applications published through the Apple App Store.",
+    "14 peer-discoverable Technical Disclosure Commons publications spanning AI governance, provenance, software architecture, and decision intelligence.",
+    "MBA with 97th-percentile national comprehensive assessment; Magna Cum Laude undergraduate degree; FAA Part 107 Remote Pilot."
   ],
   "footer": "Research → Architecture → Implementation → Deployment → Validation"
 }
