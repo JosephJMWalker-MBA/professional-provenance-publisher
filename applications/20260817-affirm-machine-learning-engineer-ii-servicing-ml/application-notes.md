@@ -14,29 +14,35 @@
 - Source cover letter: `cover-letter.html` + `cover-letter.css`
 - Application metadata and truth boundary: `application.json`
 
-## Recommended Form Values Already Supported by Source
+## Final Form Values
 
 - First name: Joseph
 - Last name: Walker
+- Preferred name: Joseph Walker
+- Pronouns: He/Him
 - Email: joseph@729llc.com
+- Country: United States
 - Phone: 330-415-1449
 - State: Ohio
+- Immigration sponsorship required now: No
+- Immigration sponsorship required in the future: No
+- How first learned about Affirm: A colleague sent the job link because they thought Joseph would be a good fit.
+- Previously employed by Affirm: No
 - LinkedIn: https://www.linkedin.com/in/joseph-walker-01ba9a181/
 - GitHub: https://github.com/JosephJMWalker-MBA
 - Portfolio: https://github.com/JosephJMWalker-MBA/executive-resume
 - Other links: Label Lens, Hermeneia, Technical Disclosure Commons
 
-## **NEEDS USER INPUT BEFORE SUBMISSION**
+## Optional Fields
 
-The Greenhouse form requires or requests values that are not safely inferable from the canonical resume. Do not guess them:
+No additional required identity/eligibility answers are unresolved. The following may be left blank or answered at the applicant's discretion:
 
-1. **Preferred Name** - required by Affirm's form.
-2. **Pronouns** - marked required by Affirm's form.
-3. **Immigration sponsorship required now** - required.
-4. **Immigration sponsorship required in the future** - required.
-5. **How you first learned about Affirm as an employer** - required.
-6. **Previously employed by Affirm?** - required.
-7. Voluntary demographic, veteran, and disability survey responses - user choice only.
+- Name pronunciation
+- Current company
+- Twitter
+- Voluntary demographic survey
+- Voluntary veteran-status response
+- Voluntary disability-status response
 
 ## Truth Boundary / Interview Preparation
 
