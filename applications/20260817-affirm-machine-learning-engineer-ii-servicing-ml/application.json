@@ -17,9 +17,16 @@
   "application_fields": {
     "first_name": "Joseph",
     "last_name": "Walker",
+    "preferred_name": "Joseph Walker",
+    "pronouns": "He/Him",
     "email": "joseph@729llc.com",
+    "country": "United States",
     "phone": "330-415-1449",
     "state": "Ohio",
+    "requires_immigration_sponsorship_now": "No",
+    "requires_immigration_sponsorship_future": "No",
+    "how_first_learned_about_affirm": "A colleague sent me the job link because they thought I would be a good fit.",
+    "previously_employed_at_affirm": "No",
     "linkedin": "https://www.linkedin.com/in/joseph-walker-01ba9a181/",
     "github": "https://github.com/JosephJMWalker-MBA",
     "portfolio": "https://github.com/JosephJMWalker-MBA/executive-resume",
@@ -28,14 +35,13 @@
       "https://github.com/JosephJMWalker-MBA/Hermeneia",
       "https://www.tdcommons.org/dpubs_series/10374"
     ],
-    "needs_user_input_before_submission": [
-      "Preferred Name",
-      "Pronouns",
-      "Current U.S. work authorization / sponsorship required now",
-      "Future immigration sponsorship requirement",
-      "How you first learned about Affirm as an employer",
-      "Whether you have previously been employed at Affirm",
-      "Voluntary demographic / veteran / disability survey choices"
+    "optional_fields_left_to_user": [
+      "Name pronunciation",
+      "Current company",
+      "Twitter",
+      "Voluntary demographic survey responses",
+      "Voluntary veteran-status response",
+      "Voluntary disability-status response"
     ]
   }
 }
