@@ -1,0 +1,41 @@
+{
+  "company": "Affirm",
+  "role": "Machine Learning Engineer II (Servicing ML)",
+  "location": "Remote US",
+  "requisition_id": "7719651003",
+  "requisition_url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
+  "deadline": "Not stated; open while posted",
+  "prepared_date": "2026-08-17",
+  "status": "Prepared - not submitted",
+  "source_resume": "../../data/resume.json",
+  "source_repository": "https://github.com/JosephJMWalker-MBA/executive-resume",
+  "truth_boundary": [
+    "No claim of LightGBM, XGBoost, CatBoost, Kubeflow, Airflow, or MLflow production experience is made.",
+    "Classification experience is presented as supervised-ML/scikit-learn foundation, not as shipped GBDT production experience.",
+    "Label Lens and Hermeneia details are limited to verified repository evidence and canonical resume claims."
+  ],
+  "application_fields": {
+    "first_name": "Joseph",
+    "last_name": "Walker",
+    "email": "joseph@729llc.com",
+    "phone": "330-415-1449",
+    "state": "Ohio",
+    "linkedin": "https://www.linkedin.com/in/joseph-walker-01ba9a181/",
+    "github": "https://github.com/JosephJMWalker-MBA",
+    "portfolio": "https://github.com/JosephJMWalker-MBA/executive-resume",
+    "other_links": [
+      "https://github.com/JosephJMWalker-MBA/label-lens-ttb",
+      "https://github.com/JosephJMWalker-MBA/Hermeneia",
+      "https://www.tdcommons.org/dpubs_series/10374"
+    ],
+    "needs_user_input_before_submission": [
+      "Preferred Name",
+      "Pronouns",
+      "Current U.S. work authorization / sponsorship required now",
+      "Future immigration sponsorship requirement",
+      "How you first learned about Affirm as an employer",
+      "Whether you have previously been employed at Affirm",
+      "Voluntary demographic / veteran / disability survey choices"
+    ]
+  }
+}
