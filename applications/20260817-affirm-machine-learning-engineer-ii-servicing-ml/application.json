@@ -6,7 +6,8 @@
   "requisition_url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
   "deadline": "Not stated; open while posted",
   "prepared_date": "2026-08-17",
-  "status": "Prepared - not submitted",
+  "date_applied": "2026-08-17",
+  "status": "Applied",
   "source_resume": "../../data/resume.json",
   "source_repository": "https://github.com/JosephJMWalker-MBA/executive-resume",
   "truth_boundary": [
@@ -30,10 +31,11 @@
     "linkedin": "https://www.linkedin.com/in/joseph-walker-01ba9a181/",
     "github": "https://github.com/JosephJMWalker-MBA",
     "portfolio": "https://github.com/JosephJMWalker-MBA/executive-resume",
-    "other_links": [
-      "https://github.com/JosephJMWalker-MBA/label-lens-ttb",
-      "https://github.com/JosephJMWalker-MBA/Hermeneia",
-      "https://www.tdcommons.org/dpubs_series/10374"
+    "submitted_extra_links_reported": [
+      "LinkedIn",
+      "GitHub",
+      "The Clarity Economy",
+      "Technical disclosures overview"
     ],
     "optional_fields_left_to_user": [
       "Name pronunciation",
