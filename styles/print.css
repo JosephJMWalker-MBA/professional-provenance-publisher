@@ -29,6 +29,8 @@ body {
   width: auto;
 }
 
+.surface-nav { display: none; }
+
 .page {
   background: #ffffff;
   box-shadow: none;
