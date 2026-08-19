@@ -5,8 +5,9 @@ const full={identity:{name:'Test Person',documentLabel:'Resume',title:'Engineer'
 const minimal={identity:{name:'Minimal Person'}};
 const escaped={identity:{name:'<script>alert(1)</script>'}};
 const unsafeLink={identity:{name:'Unsafe Link'},publications:{books:[{title:'Do not link',url:'javascript:alert(1)'}]}};
+const surfaceVisibility={identity:{name:'Surface Test'},publications:{books:[{title:'Visible Book',surfaces:{resume:true}},{title:'Hidden Book',surfaces:{resume:false}}]},systems:[{name:'Visible System',surfaces:{resume:true}},{name:'Hidden System',surfaces:{resume:false}}]};
 
-for(const fixture of [full,minimal,{},escaped,unsafeLink]){const html=renderDocument(fixture);assert.ok(html.startsWith('<!doctype html>'));assert.ok(!html.includes('undefined'));assert.ok(!html.includes('>null<'));}
+for(const fixture of [full,minimal,{},escaped,unsafeLink,surfaceVisibility]){const html=renderDocument(fixture);assert.ok(html.startsWith('<!doctype html>'));assert.ok(!html.includes('undefined'));assert.ok(!html.includes('>null<'));}
 assert.match(renderDocument(full),/Test Person/);
 assert.match(renderDocument(minimal),/Minimal Person/);
 assert.doesNotMatch(renderDocument(minimal),/Publications/);
@@ -15,4 +16,9 @@ assert.doesNotMatch(renderDocument(escaped),/<script>alert/);
 assert.match(renderDocument(full),/<a href="https:\/\/example\.com\/book" target="_blank" rel="noopener noreferrer">Linked Book<\/a>/);
 assert.match(renderDocument(unsafeLink),/<li>Do not link<\/li>/);
 assert.doesNotMatch(renderDocument(unsafeLink),/javascript:/);
+const visibleHtml=renderDocument(surfaceVisibility);
+assert.match(visibleHtml,/Visible Book/);
+assert.doesNotMatch(visibleHtml,/Hidden Book/);
+assert.match(visibleHtml,/Visible System/);
+assert.doesNotMatch(visibleHtml,/Hidden System/);
 console.log('Renderer tests passed');
