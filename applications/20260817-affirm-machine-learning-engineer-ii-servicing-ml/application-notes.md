@@ -1,6 +1,6 @@
 # Affirm - Machine Learning Engineer II (Servicing ML) Application Notes
 
-**Status:** PREPARED - NOT SUBMITTED  
+**Status:** APPLIED — 2026-08-17  
 **Prepared:** 2026-08-17  
 **Requisition:** 7719651003  
 **Official URL:** https://job-boards.greenhouse.io/affirm/jobs/7719651003  
@@ -26,12 +26,12 @@
 - State: Ohio
 - Immigration sponsorship required now: No
 - Immigration sponsorship required in the future: No
-- How first learned about Affirm: A colleague sent the job link because they thought Joseph would be a good fit.
+- How first learned about Affirm: A colleague sent me the job link because they thought I would be a good fit.
 - Previously employed by Affirm: No
 - LinkedIn: https://www.linkedin.com/in/joseph-walker-01ba9a181/
 - GitHub: https://github.com/JosephJMWalker-MBA
-- Portfolio: https://github.com/JosephJMWalker-MBA/executive-resume
-- Other links: Label Lens, Hermeneia, Technical Disclosure Commons
+- Portfolio: https://github.com/JosephJMWalker-MBA/professional-provenance-publisher
+- Submitted extra links reported: LinkedIn, GitHub, *The Clarity Economy*, and technical disclosures overview
 
 ## Optional Fields
 
@@ -50,3 +50,7 @@ No additional required identity/eligibility answers are unresolved. The followin
 - Foundation but not claimed as shipped production expertise: supervised/tabular classification with scikit-learn concepts.
 - **Do not claim:** production LightGBM, XGBoost, CatBoost, Kubeflow, Airflow, or MLflow experience unless separately verified before submission/interview.
 - Best interview bridge: explain how Label Lens's evidence -> typed observations -> deterministic checks -> human review architecture transfers to disputes/chargebacks/refunds, then discuss how a GBDT classifier could be introduced as a bounded model stage without weakening auditability.
+
+## Repository Boundary
+
+This is a job-specific application derivative, not canonical publisher content. It is intentionally not intended for merge into the public `main` branch. Future application packages should be maintained in a private application-history location rather than the public professional publisher.
