@@ -1,0 +1,116 @@
+@media print {
+  .capabilities {
+    grid-template-columns: 1fr;
+  }
+
+  .capabilities > h2,
+  .systems > h2,
+  .publications > h2,
+  .publication-focus,
+  .education > h2,
+  .technical-environment > h2 {
+    grid-column: 1 / -1;
+  }
+
+  .systems {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .publications {
+    grid-template-columns: 1.35fr 0.65fr;
+  }
+
+  .education,
+  .technical-environment,
+  .deployment-evidence ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .system-card ul {
+    columns: 2;
+  }
+
+  .experience-heading {
+    grid-template-columns: 1fr auto;
+    gap: 12px;
+  }
+
+  .identity h1,
+  h1 {
+    font-size: 25px;
+  }
+
+  .role {
+    font-size: 11.2px;
+  }
+
+  .positioning {
+    font-size: 10.4px;
+  }
+
+  address {
+    font-size: 8.9px;
+  }
+
+  section:not(.page),
+  .resume-footer {
+    margin-top: 0.14in;
+  }
+
+  h2 {
+    font-size: 9.3px;
+  }
+
+  .executive-profile p {
+    font-size: 9.45px;
+    line-height: 1.37;
+  }
+
+  .experience-item {
+    margin-bottom: 0.085in;
+  }
+
+  .capability-group li,
+  .deployment-evidence li {
+    font-size: 8px;
+  }
+
+  .system-card > p:not(.system-subtitle):not(.validation) {
+    font-size: 8.3px;
+  }
+
+  .system-card li,
+  .publication-group li,
+  .education-entry p,
+  .publication-focus {
+    font-size: 7.7px;
+  }
+
+  .technical-group ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.01in 0.08in;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .technical-group li {
+    font-size: 7.65px;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  .technical-group li:not(:last-child)::after {
+    color: #8a96a2;
+    content: " •";
+  }
+
+  .resume-footer {
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: 7.6px;
+    letter-spacing: 0.025em;
+    padding-top: 0.05in;
+  }
+}

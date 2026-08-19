@@ -2,8 +2,8 @@
   "identity": {
     "name": "Joseph Jeremy Michael Walker, MBA",
     "documentLabel": "Executive Technical Resume",
-    "title": "Artificial Intelligence Systems Architect • Software Engineer • AI Governance Researcher",
-    "positioning": "Designing trustworthy AI systems through governance, provenance, software architecture, and human-centered engineering."
+    "title": "AI Systems Architect • Software Engineer • Technical Strategist",
+    "positioning": "Builds production AI and software systems with explicit governance, provenance, testing, and human-in-the-loop controls."
   },
   "contact": {
     "location": "Canton, Ohio",
@@ -14,193 +14,174 @@
     "tdc": "https://www.tdcommons.org/dpubs_series/10374"
   },
   "executiveProfile": [
-    "Artificial intelligence systems architect with experience designing and deploying production software, AI governance frameworks, decision-support platforms, and knowledge systems across healthcare, commerce, engineering, education, and public infrastructure.",
-    "Published researcher in AI governance, provenance-aware computing, multi-agent systems, and software architecture with a portfolio spanning production web applications, published iOS software, AI-assisted operational platforms, and technical disclosures focused on trustworthy artificial intelligence.",
-    "Combines scientific research, software engineering, systems architecture, and strategic management to translate emerging AI capabilities into secure, auditable, and human-centered operational systems."
+    "AI systems architect, software engineer, and MBA-trained technology strategist who moves from problem definition through architecture, implementation, deployment, and validation. Builds production applications and governance-oriented AI systems across knowledge work, commerce, inspection, decision support, and research, with a consistent emphasis on auditability, provenance, deterministic controls, and human judgment."
   ],
-  "publications": {
-    "technicalDisclosureCommons": [
-      {
-        "title": "System and Method for User-Owned Longitudinal Memory and Interpretation System with a Provenance-Tagged Interpretive Ledger, Engine-Interchangeable Inference, Federated Validation, and Generational Maintenance (2026)",
-        "url": "https://www.tdcommons.org/dpubs_series/10374"
-      },
-      {
-        "title": "The Living Memory System: Transforming Death Care Infrastructure into a Perpetual Relational Ecosystem for Memory Preservation, Family Continuity, and Citizen-Governed Memorial Stewardship (2026)",
-        "url": "https://www.tdcommons.org/dpubs_series/10061"
-      },
-      {
-        "title": "Deliberative Intelligence, Iterative Consensus, and Outcome-Grounded Wisdom via Reality Backpropagation (2026)",
-        "url": "https://www.tdcommons.org/dpubs_series/9840"
-      },
-      {
-        "title": "Coordinated, Heterogeneous Model Composition under a Shared Governance and Audit Layer (2025)",
-        "url": "https://www.tdcommons.org/dpubs_series/9043/"
-      },
-      {
-        "title": "System and Method for Relational Matching Using Non-Presentational Behavioral Signals",
-        "url": "https://www.tdcommons.org/dpubs_series/10031"
-      },
-      {
-        "title": "[Conversational Operating System] Dynamic System Prompt Architecture for Context State Governance in Large Language Models (2025)",
-        "url": "https://www.tdcommons.org/dpubs_series/9039"
-      },
-      {
-        "title": "Anchored AI: Intent-Extraction, Anchor-Weighted Generation, and Synthetic Collapse Prevention for Human-Aligned AI (2025)",
-        "url": "https://www.tdcommons.org/dpubs_series/8677"
-      },
-      {
-        "title": "Python 4.0 — A Gated, Forward-Safe Evolution (2025)",
-        "url": "https://www.tdcommons.org/dpubs_series/8766"
-      },
-      {
-        "title": "The Onshoring Opportunity Framework & National Reshoring Blueprint 2025",
-        "url": "https://www.tdcommons.org/dpubs_series/8702"
-      },
-      {
-        "title": "Unified Pre-Launch Causal Simulator",
-        "url": "https://www.tdcommons.org/dpubs_series/8685"
-      },
-      {
-        "title": "Unified, Site-Selectable Waterless Cooling Architecture for High-Density Computing",
-        "url": "https://www.tdcommons.org/dpubs_series/8684"
-      },
-      {
-        "title": "Cumulative UV-Responsive Coating for Structural Degradation Monitoring",
-        "url": "https://www.tdcommons.org/dpubs_series/8682"
-      },
-      {
-        "title": "WIC Victory Gardens: Integrating Micro-Farming into the Women, Infants, and Children Program",
-        "url": "https://www.tdcommons.org/dpubs_series/8676"
-      },
-      {
-        "title": "Ultraviolet Spectrum Coating for Drones to Deter Bird Interference",
-        "url": "https://www.tdcommons.org/dpubs_series/8672"
-      }
-    ],
-    "books": [
-      {
-        "title": "The Clarity Economy: The Fifth Industrial Revolution and the Fight for Signal Integrity (2026)",
-        "url": "https://a.co/d/0hpPTccm"
-      },
-      {
-        "title": "AI Is AI: Why Metaphors Fail Us (2026)",
-        "url": "https://a.co/d/0boDDhKp"
-      },
-      {
-        "title": "Before We Judged: An Illustrated Apologist’s Guide Through Exegesis of Genesis 1 & 2",
-        "url": "https://a.co/d/09pAtVhi"
-      },
-      {
-        "title": "The Royal We: Understanding The Trinity",
-        "url": "https://a.co/d/07nBgqiT"
-      },
-      {
-        "title": "Memes. Math & Science - Artistic Contemplation Book: A Coloring Book For Every Mind!",
-        "url": "https://a.co/d/036Ood6l"
-      },
-      {
-        "title": "Social Media Mastery: Strategies, Systems, and Playbooks for the Digital Era",
-        "url": "https://a.co/d/0a3g3QC4"
-      },
-      {
-        "title": "What Sound Does a Giraffe Make?: How to Keep Your Family Safe in a World Where Even Voices Can Be Faked",
-        "url": "https://a.co/d/017aUo6d"
-      },
-      {
-        "title": "Your Love Is Inescapable: I Carry You With Me",
-        "url": "https://a.co/d/047ftksW"
-      },
-      {
-        "title": "A Child Called Magic: We Made You On Purpose",
-        "url": "https://a.co/d/0bFm1qjG"
-      },
-      {
-        "title": "The Lesson From The Moonlit Garden: Dedicated to Brook's Bereavement Bears",
-        "url": "https://a.co/d/05DFJkdD"
-      },
-      {
-        "title": "Bonne Heures For Everyone",
-        "url": "https://a.co/d/0hT46SMr"
-      }
-    ],
-    "focus": "AI governance, provenance-aware computing, multi-agent systems, software architecture, trustworthy AI, distributed systems, information integrity, and decision intelligence."
-  },
+  "experience": [
+    {
+      "organization": "729 LLC",
+      "role": "Founder & Managing Director",
+      "period": "2019–Present",
+      "highlights": [
+        "Lead a portfolio of AI, software, knowledge-system, education, media, and operational ventures from concept through deployment.",
+        "Architect Python and TypeScript systems that combine probabilistic AI with deterministic workflows, provenance controls, testing, and human review.",
+        "Translate emerging AI capabilities into product architecture, governance frameworks, technical documentation, operating standards, and validation plans."
+      ]
+    },
+    {
+      "organization": "Aerial Inspections LLC",
+      "role": "Founder & Principal",
+      "period": "2024–Present",
+      "highlights": [
+        "Designed operational software and repeatable workflows for FAA Part 107 aerial inspection, evidence capture, visual and thermal reporting, and client documentation.",
+        "Built quality-assurance and service-boundary practices around remote sensing, thermal imaging, RTK mapping, reporting, and infrastructure documentation.",
+        "Bring more than a decade of drone flight experience to field operations, product design, and inspection-system development."
+      ]
+    },
+    {
+      "organization": "Masters Consulting Group",
+      "role": "Founder & Consultant",
+      "period": "2014–Present",
+      "highlights": [
+        "Advise on technology modernization, process improvement, AI adoption, organizational design, and operational effectiveness.",
+        "Convert ambiguous business problems into workflows, standards, technical requirements, decision-support tools, and implementation plans."
+      ]
+    }
+  ],
   "capabilities": [
     {
-      "group": "Artificial Intelligence",
-      "items": ["AI Engineering", "Multi-Agent Systems", "Retrieval-Augmented Generation", "Computer Vision", "Natural Language Processing", "AI Governance", "Trustworthy AI", "AI Evaluation", "Decision Intelligence", "Human-AI Collaboration"]
+      "group": "AI & Applied ML",
+      "items": [
+        "AI Engineering",
+        "Retrieval-Augmented Generation",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Multi-Agent Systems",
+        "AI Evaluation",
+        "Human-AI Collaboration"
+      ]
     },
     {
       "group": "Software Engineering",
-      "items": ["Python", "TypeScript", "Swift", "React", "Next.js", "REST APIs", "SQL", "Prisma", "Git", "Testing & Release Engineering"]
+      "items": [
+        "Python",
+        "TypeScript",
+        "Dart",
+        "Swift",
+        "JavaScript",
+        "Flutter",
+        "React",
+        "Next.js",
+        "REST APIs",
+        "SQL"
+      ]
     },
     {
-      "group": "Systems Architecture",
-      "items": ["Software Architecture", "Distributed Systems", "Knowledge Systems", "Provenance-Aware Computing", "Information Architecture", "Semantic Information Systems", "Workflow Automation", "Enterprise Integration"]
+      "group": "Architecture & Governance",
+      "items": [
+        "Software Architecture",
+        "Distributed Systems",
+        "Provenance-Aware Computing",
+        "AI Governance",
+        "Auditability",
+        "Knowledge Systems",
+        "Workflow Automation"
+      ]
     },
     {
-      "group": "Security & Operations",
-      "items": ["DevSecOps Practices", "Secure API Design", "Identity & Authentication", "Operational Workflows", "Technical Documentation", "Agile Development", "Production Deployment", "Quality Assurance"]
+      "group": "Delivery & Operations",
+      "items": [
+        "Product Architecture",
+        "Technical Strategy",
+        "Automated Testing",
+        "CI/CD",
+        "Production Deployment",
+        "Technical Documentation",
+        "Quality Assurance"
+      ]
     }
   ],
-  "edgeAI": {
-    "title": "Edge AI, Computer Vision & Trusted Inference",
-    "summary": "Designed edge-AI architectures spanning medical-device OCR, aerial inspection workflows, local model experimentation, and privacy-preserving decision support. Experience includes offline-capable inference, computer vision preprocessing, human-verified extraction, local/remote model orchestration, and provenance-aware interpretation pipelines."
-  },
   "systems": [
     {
       "name": "Hermeneia",
-      "subtitle": "AI Governance & Provenance Architecture",
-      "summary": "Designed and implemented an AI governance platform that separates evidence extraction, semantic contract generation, AI inference, evaluation, and human stewardship into independently auditable stages.",
-      "validation": "998 passing automated tests",
-      "highlights": ["Provider-neutral AI architecture", "Provenance-tagged interpretation pipeline", "Semantic contracts", "Human-in-the-loop governance", "Multi-stage evaluation framework", "CLI, API, and web interface", "Automated validation suite"]
+      "subtitle": "Provenance-First AI Governance & Interpretation Platform",
+      "summary": "Designed and implemented a provider-neutral system that separates evidence capture, semantic contracts, inference, evaluation, and human stewardship into auditable stages with append-only artifacts and deterministic governance boundaries.",
+      "validation": "1,127 passing automated tests; 1 skipped (Aug. 14, 2026)",
+      "url": "https://github.com/JosephJMWalker-MBA/Hermeneia",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Python",
+        "CLI / API / web surfaces",
+        "Provenance-tagged interpretive ledger",
+        "Semantic contracts",
+        "Human-in-the-loop stewardship",
+        "Deterministic critic/evaluation boundaries"
+      ]
     },
     {
-      "name": "Sodateru.Shop",
+      "name": "Label Lens TTB",
+      "subtitle": "Deterministic Compliance Prescreen for Domestic Wine Labels",
+      "summary": "Built a production-oriented prescreen that combines OCR-assisted extraction with versioned deterministic rules and explicit PASS / WARN / FAIL / NEEDS_REVIEW outcomes while preserving reviewer authority.",
+      "url": "https://github.com/JosephJMWalker-MBA/label-lens-ttb",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Next.js 15 / TypeScript",
+        "Prisma / MySQL",
+        "Tesseract OCR",
+        "Append-only revisions",
+        "SHA-256 / HMAC integrity metadata",
+        "Vitest / Playwright"
+      ]
+    },
+    {
+      "name": "Pyxis",
+      "subtitle": "Python-First Browser & Research Harness",
+      "summary": "Developing a browser/research architecture that keeps canonical intent authoritative and separates repository IR, deterministic compilation, filesystem materialization, runtime execution, and generation-status evidence.",
+      "url": "https://github.com/JosephJMWalker-MBA/pyxis",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Python",
+        "Deterministic compiler boundaries",
+        "Canonical intent → RepositoryIR",
+        "Artifact provenance",
+        "Runtime / compile separation",
+        "Research workflow architecture"
+      ]
+    },
+    {
+      "name": "SODATERU.shop",
       "subtitle": "Production AI-Enabled Commerce & Operations Platform",
-      "summary": "Designed and deployed a production full-stack commerce platform integrating AI decision support, operational analytics, secure payment processing, fulfillment automation, and administrative workflows.",
+      "summary": "Designed and deployed a full-stack commerce platform integrating AI decision support, operational analytics, secure payments, fulfillment automation, and administrative workflows.",
       "url": "https://sodateru.shop",
-      "highlights": ["Next.js / TypeScript architecture", "AI Strategy Advisor", "Daily AI Growth Reports", "BTCPay Server integration", "Printful fulfillment automation", "Secure webhook infrastructure", "Operational analytics"]
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Next.js / TypeScript",
+        "AI Strategy Advisor",
+        "Daily AI growth reports",
+        "BTCPay Server",
+        "Printful automation",
+        "Secure webhooks"
+      ]
     },
     {
-      "name": "Big Joke",
-      "subtitle": "Human Performance Intelligence Platform",
-      "summary": "Designed a structured creative workflow platform that transforms unstructured ideas into measurable performance data through metadata classification, multimedia capture, practice analytics, and AI-assisted coaching architecture.",
-      "url": "https://apps.apple.com/us/app/big-joke/id6771604436",
-      "highlights": ["Structured knowledge models", "Metadata classification", "Practice analytics", "AI coaching framework", "Multimedia capture", "Performance intelligence"]
-    },
-    {
-      "name": "729-HTML-100",
-      "subtitle": "Semantic Publishing & Knowledge Infrastructure",
-      "summary": "Built a secure semantic publishing platform emphasizing multilingual public knowledge, accessibility, institutional memory, privacy-preserving search, and operational stewardship.",
-      "url": "https://729llc.com",
-      "highlights": ["Semantic publishing", "Multilingual architecture", "Browser-local semantic search", "Security-first deployment", "Steward portal", "Static knowledge infrastructure"]
-    },
-    {
-      "name": "Aerial Inspections LLC",
-      "subtitle": "Operational Inspection Platform",
-      "summary": "Developed operational software supporting regulated aerial inspection workflows, evidence management, reporting, and infrastructure documentation.",
-      "url": "https://inspectfromabove.com",
-      "highlights": ["FAA Part 107 operations", "Inspection workflows", "Evidence management", "Technical reporting", "Operational documentation", "Client information systems"]
-    },
-    {
-      "name": "Masters Consulting Group",
-      "subtitle": "Consulting & Professional Services",
-      "summary": "Professional consulting presence supporting business, strategy, and advisory work.",
-      "url": "https://mastersconsultinggroup.org",
-      "highlights": ["Strategic consulting", "Business advisory", "Professional services"]
-    },
-    {
-      "name": "YurrMom.com",
-      "subtitle": "Creative Commerce & Media Brand",
-      "summary": "Creative brand and commerce platform for humorous media, product experimentation, and short-form advertising concepts.",
-      "url": "https://yurrmom.com",
-      "highlights": ["Creative direction", "Short-form advertising", "Affiliate commerce", "Brand experimentation"]
-    },
-    {
-      "name": "Published iOS Applications",
-      "subtitle": "Production Decision-Support Software",
-      "summary": "Published production iOS applications through the Apple App Store, including HeadroomCalc for engineering calculation support and RMDAnalyzer for retirement distribution planning.",
+      "name": "Published Mobile Applications",
+      "subtitle": "Production iOS & Cross-Platform Application Delivery",
+      "summary": "Published four applications through the Apple App Store, carrying products through application architecture, implementation, testing, store preparation, release, and post-release refinement.",
       "url": "https://apps.apple.com/us/app/headroomcalc/id6754173227",
       "links": [
         {
@@ -212,54 +193,437 @@
           "url": "https://apps.apple.com/us/app/rmdanalyzer/id6753994543"
         }
       ],
-      "highlights": ["HeadroomCalc", "RMDAnalyzer", "Apple App Store release process", "Decision-support software"]
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Swift / iOS",
+        "Dart / Flutter",
+        "App Store release workflow",
+        "Decision-support applications",
+        "Production testing",
+        "User-facing product delivery"
+      ]
+    },
+    {
+      "name": "Big Joke",
+      "subtitle": "Comedy Performance Workflow Platform",
+      "summary": "Designed and released a comedy workflow application for organizing sets, practicing delivery, capturing performances without a self-view distraction, and logging performance feedback.",
+      "url": "https://apps.apple.com/us/app/big-joke/id6771604436",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Set organization",
+        "Teleprompter / practice",
+        "Blind / no-mirror recording",
+        "Voice / Siri capture",
+        "Performance logging",
+        "Production mobile delivery"
+      ]
+    },
+    {
+      "name": "729-HTML-100",
+      "subtitle": "Semantic Publishing & Knowledge Infrastructure",
+      "summary": "Built a secure semantic publishing platform emphasizing multilingual public knowledge, accessibility, institutional memory, privacy-preserving search, and operational stewardship.",
+      "url": "https://729llc.com",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Semantic publishing",
+        "Multilingual architecture",
+        "Browser-local semantic search",
+        "Security-first deployment",
+        "Steward portal",
+        "Static knowledge infrastructure"
+      ]
+    },
+    {
+      "name": "Aerial Inspection Platform",
+      "subtitle": "Operational Evidence & Reporting System",
+      "summary": "Developed operational software supporting regulated aerial inspection workflows, evidence management, reporting, and infrastructure documentation under FAA Part 107 operating constraints.",
+      "url": "https://inspectfromabove.com",
+      "surfaces": {
+        "resume": true,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Remote sensing workflows",
+        "Thermal imaging",
+        "RTK mapping",
+        "Evidence management",
+        "Technical reporting",
+        "Operational documentation"
+      ]
+    },
+    {
+      "name": "Masters Consulting Group",
+      "subtitle": "Consulting & Professional Services",
+      "summary": "Professional consulting presence supporting business, strategy, and advisory work.",
+      "url": "https://mastersconsultinggroup.org",
+      "surfaces": {
+        "resume": false,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Strategic consulting",
+        "Business advisory",
+        "Professional services"
+      ]
+    },
+    {
+      "name": "YurrMom.com",
+      "subtitle": "Creative Commerce & Media Brand",
+      "summary": "Creative brand and commerce platform for humorous media, product experimentation, and short-form advertising concepts.",
+      "url": "https://yurrmom.com",
+      "surfaces": {
+        "resume": false,
+        "portfolio": true,
+        "links": true
+      },
+      "highlights": [
+        "Creative direction",
+        "Short-form advertising",
+        "Affiliate commerce",
+        "Brand experimentation"
+      ]
     }
   ],
+  "publications": {
+    "technicalDisclosureCommons": [
+      {
+        "title": "System and Method for User-Owned Longitudinal Memory and Interpretation System with a Provenance-Tagged Interpretive Ledger, Engine-Interchangeable Inference, Federated Validation, and Generational Maintenance (2026)",
+        "url": "https://www.tdcommons.org/dpubs_series/10374",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "The Living Memory System: Transforming Death Care Infrastructure into a Perpetual Relational Ecosystem for Memory Preservation, Family Continuity, and Citizen-Governed Memorial Stewardship (2026)",
+        "url": "https://www.tdcommons.org/dpubs_series/10061",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Deliberative Intelligence, Iterative Consensus, and Outcome-Grounded Wisdom via Reality Backpropagation (2026)",
+        "url": "https://www.tdcommons.org/dpubs_series/9840",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Coordinated, Heterogeneous Model Composition under a Shared Governance and Audit Layer (2025)",
+        "url": "https://www.tdcommons.org/dpubs_series/9043/",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "System and Method for Relational Matching Using Non-Presentational Behavioral Signals",
+        "url": "https://www.tdcommons.org/dpubs_series/10031",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "[Conversational Operating System] Dynamic System Prompt Architecture for Context State Governance in Large Language Models (2025)",
+        "url": "https://www.tdcommons.org/dpubs_series/9039",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Anchored AI: Intent-Extraction, Anchor-Weighted Generation, and Synthetic Collapse Prevention for Human-Aligned AI (2025)",
+        "url": "https://www.tdcommons.org/dpubs_series/8677",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Python 4.0 — A Gated, Forward-Safe Evolution (2025)",
+        "url": "https://www.tdcommons.org/dpubs_series/8766",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "The Onshoring Opportunity Framework & National Reshoring Blueprint 2025",
+        "url": "https://www.tdcommons.org/dpubs_series/8702",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Unified Pre-Launch Causal Simulator",
+        "url": "https://www.tdcommons.org/dpubs_series/8685",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Unified, Site-Selectable Waterless Cooling Architecture for High-Density Computing",
+        "url": "https://www.tdcommons.org/dpubs_series/8684",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Cumulative UV-Responsive Coating for Structural Degradation Monitoring",
+        "url": "https://www.tdcommons.org/dpubs_series/8682",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "WIC Victory Gardens: Integrating Micro-Farming into the Women, Infants, and Children Program",
+        "url": "https://www.tdcommons.org/dpubs_series/8676",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Ultraviolet Spectrum Coating for Drones to Deter Bird Interference",
+        "url": "https://www.tdcommons.org/dpubs_series/8672",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      }
+    ],
+    "books": [
+      {
+        "title": "The Clarity Economy: The Fifth Industrial Revolution and the Fight for Signal Integrity (2026)",
+        "url": "https://a.co/d/0hpPTccm",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "AI Is AI: Why Metaphors Fail Us (2026)",
+        "url": "https://a.co/d/0boDDhKp",
+        "surfaces": {
+          "resume": true,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Before We Judged: An Illustrated Apologist’s Guide Through Exegesis of Genesis 1 & 2",
+        "url": "https://a.co/d/09pAtVhi",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "The Royal We: Understanding The Trinity",
+        "url": "https://a.co/d/07nBgqiT",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Memes. Math & Science - Artistic Contemplation Book: A Coloring Book For Every Mind!",
+        "url": "https://a.co/d/036Ood6l",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Social Media Mastery: Strategies, Systems, and Playbooks for the Digital Era",
+        "url": "https://a.co/d/0a3g3QC4",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "What Sound Does a Giraffe Make?: How to Keep Your Family Safe in a World Where Even Voices Can Be Faked",
+        "url": "https://a.co/d/017aUo6d",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Your Love Is Inescapable: I Carry You With Me",
+        "url": "https://a.co/d/047ftksW",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "A Child Called Magic: We Made You On Purpose",
+        "url": "https://a.co/d/0bFm1qjG",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "The Lesson From The Moonlit Garden: Dedicated to Brook's Bereavement Bears",
+        "url": "https://a.co/d/05DFJkdD",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      },
+      {
+        "title": "Bonne Heures For Everyone",
+        "url": "https://a.co/d/0hT46SMr",
+        "surfaces": {
+          "resume": false,
+          "portfolio": true,
+          "links": false
+        }
+      }
+    ],
+    "focus": "14 Technical Disclosure Commons publications across AI governance, provenance-aware computing, multi-agent systems, software architecture, information integrity, and decision intelligence."
+  },
   "education": [
     {
       "institution": "IBM",
       "credential": "AI Engineering Professional Certificate",
       "year": "2025",
-      "details": "Production AI systems, machine learning, transformers, retrieval-augmented generation, computer vision, AI agents, LangChain, vector databases, deep learning, and deployment workflows."
+      "details": "Machine learning, deep learning, transformers, RAG, computer vision, AI agents, LangChain, vector databases, and deployment workflows."
     },
     {
       "institution": "Stanford University",
       "credential": "Artificial Intelligence in Health Care",
       "year": "2025",
-      "details": "Predictive modeling, clinical decision support, medical imaging, responsible AI, AI evaluation, and translation of machine learning research into safe healthcare systems."
+      "details": "Predictive modeling, clinical decision support, medical imaging, responsible AI, evaluation, and healthcare translation."
     },
     {
       "institution": "Walsh University",
       "credential": "MBA, Strategic Management",
       "year": "2014",
-      "details": "97th Percentile National Comprehensive Assessment. Graduate coursework in strategy, finance, operations, information systems, and executive decision-making."
+      "details": "97th percentile national comprehensive assessment; strategy, finance, operations, information systems, and executive decision-making."
     },
     {
       "institution": "Walsh University",
       "credential": "Bachelor of Science — Molecular Biology • Chemistry • Business Management",
       "year": "",
-      "details": "Magna Cum Laude. Departmental Honors. Honors Thesis. Interdisciplinary scientific education combining molecular biology, chemistry, business management, quantitative analysis, and research methodology."
+      "details": "Completed undergraduate degree at Walsh University after beginning undergraduate study at Kent State University; Magna Cum Laude."
+    },
+    {
+      "institution": "Kent State University",
+      "credential": "Prior Undergraduate Study",
+      "year": "",
+      "details": "Business Management, Chemistry, and Microbiology coursework; Departmental Honors."
     },
     {
       "institution": "Federal Aviation Administration",
       "credential": "Remote Pilot Certificate (Part 107)",
       "year": "",
-      "details": "Remote sensing, thermal imaging, RTK mapping, infrastructure inspection, aviation safety, and unmanned aerial systems operations."
+      "details": "Commercial unmanned-aircraft operations; remote sensing, thermal imaging, RTK mapping, infrastructure inspection, and aviation safety."
     }
   ],
   "technicalEnvironment": {
-    "Languages": ["Python", "TypeScript", "Swift", "JavaScript", "SQL"],
-    "Artificial Intelligence": ["OpenAI", "Anthropic", "Gemini", "LangChain", "Retrieval-Augmented Generation", "Computer Vision", "Vector Databases", "AI Agents"],
-    "Frameworks": ["React", "Next.js", "Flask", "Node.js", "Tailwind CSS"],
-    "Data": ["Prisma", "MySQL", "SQLite"],
-    "Platforms": ["GitHub", "Apple App Store", "Vercel", "BTCPay Server", "Printful"]
+    "Languages": [
+      "Python",
+      "TypeScript",
+      "Dart",
+      "Swift",
+      "JavaScript",
+      "SQL"
+    ],
+    "Mobile": [
+      "Flutter",
+      "Swift / iOS",
+      "Apple App Store release workflows"
+    ],
+    "Web / Application": [
+      "React",
+      "Next.js",
+      "Flask",
+      "Node.js",
+      "REST APIs",
+      "Tailwind CSS"
+    ],
+    "AI / ML": [
+      "OpenAI",
+      "Anthropic",
+      "Gemini",
+      "RAG",
+      "Computer Vision",
+      "Vector Databases",
+      "AI Agents",
+      "LangChain"
+    ],
+    "Data / Tooling": [
+      "Prisma",
+      "MySQL",
+      "SQLite",
+      "Docker",
+      "Git",
+      "GitHub Actions",
+      "Playwright",
+      "Vitest"
+    ]
   },
+  "deploymentEvidence": [
+    "Production Python application and multiple deployed full-stack web systems.",
+    "Four applications published through the Apple App Store.",
+    "Production e-commerce, payment, fulfillment, webhook, analytics, and administrative workflows.",
+    "FAA Part 107 field operations and repeatable aerial-inspection reporting workflows.",
+    "Automated test suites, CI/CD verification, release workflows, and evidence-oriented technical documentation.",
+    "Production work spanning Python, TypeScript, Swift, Dart/Flutter, computer vision, OCR, and AI-assisted decision support."
+  ],
   "achievements": [
-    "Published multiple peer-discoverable Technical Disclosure Commons disclosures advancing AI governance, software architecture, provenance-aware computing, and trustworthy AI.",
-    "Designed and implemented Hermeneia, an AI governance platform emphasizing provenance, semantic contracts, evaluation, and human oversight.",
-    "Built and deployed multiple production AI-enabled web platforms integrating secure APIs, operational analytics, payment processing, fulfillment automation, and AI-assisted decision support.",
-    "Published multiple production iOS applications through the Apple App Store.",
-    "Graduated Magna Cum Laude with Departmental Honors and earned an MBA with a 97th percentile national assessment."
+    "1,127 passing automated tests in Hermeneia as of August 14, 2026.",
+    "Four applications published through the Apple App Store.",
+    "14 peer-discoverable Technical Disclosure Commons publications spanning AI governance, provenance, software architecture, and decision intelligence.",
+    "MBA with 97th-percentile national comprehensive assessment; Magna Cum Laude undergraduate degree; FAA Part 107 Remote Pilot."
   ],
   "principles": [
     "Design AI systems that remain understandable, auditable, and accountable.",
