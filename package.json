@@ -1,9 +1,9 @@
 {
-  "name": "professional-provenance-resume",
+  "name": "professional-provenance-publisher",
   "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "Source-controlled resume and portfolio publishing system.",
+  "description": "Source-controlled professional provenance publisher for resume, portfolio, links, PDF, and machine-readable profile outputs.",
   "scripts": {
     "test": "node scripts/test-renderer.mjs && node scripts/test-normalize-profile.mjs && node scripts/test-links-renderer.mjs && node scripts/test-portfolio-renderer.mjs",
     "build": "node scripts/build-html.mjs && node scripts/build-links.mjs && node scripts/build-portfolio.mjs",
