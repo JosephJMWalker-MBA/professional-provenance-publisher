@@ -9,7 +9,7 @@
   "date_applied": "2026-08-17",
   "status": "Applied",
   "source_resume": "../../data/resume.json",
-  "source_repository": "https://github.com/JosephJMWalker-MBA/executive-resume",
+  "source_repository": "https://github.com/JosephJMWalker-MBA/professional-provenance-publisher",
   "truth_boundary": [
     "No claim of LightGBM, XGBoost, CatBoost, Kubeflow, Airflow, or MLflow production experience is made.",
     "Classification experience is presented as supervised-ML/scikit-learn foundation, not as shipped GBDT production experience.",
@@ -30,7 +30,7 @@
     "previously_employed_at_affirm": "No",
     "linkedin": "https://www.linkedin.com/in/joseph-walker-01ba9a181/",
     "github": "https://github.com/JosephJMWalker-MBA",
-    "portfolio": "https://github.com/JosephJMWalker-MBA/executive-resume",
+    "portfolio": "https://github.com/JosephJMWalker-MBA/professional-provenance-publisher",
     "submitted_extra_links_reported": [
       "LinkedIn",
       "GitHub",
