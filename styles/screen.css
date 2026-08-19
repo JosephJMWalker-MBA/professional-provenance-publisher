@@ -29,11 +29,33 @@ a {
   text-decoration: none;
 }
 
+a:focus-visible {
+  outline: 3px solid var(--navy-2);
+  outline-offset: 3px;
+  text-decoration: underline;
+}
+
 .resume {
   display: grid;
   gap: 28px;
   margin: 0 auto;
   width: var(--measure);
+}
+
+.surface-nav {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.surface-nav a {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  color: var(--navy);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 8px 12px;
 }
 
 .page {
@@ -375,6 +397,7 @@ li { margin: 0 0 3px; }
 @media (max-width: 900px) {
   body { padding: 0; }
   .resume { gap: 0; width: 100%; }
+  .surface-nav { justify-content: flex-start; padding: 16px 20px 0; }
   .page { box-shadow: none; min-height: auto; padding: 28px 24px; }
   .capabilities,
   .systems,
@@ -391,4 +414,44 @@ li { margin: 0 0 3px; }
   .technical-environment > h2 { grid-column: 1; }
   .system-card ul { columns: 1; }
   .experience-heading { grid-template-columns: 1fr; gap: 2px; }
+
+  p,
+  li,
+  dd,
+  dt,
+  address,
+  .executive-profile p {
+    font-size: 15px;
+    line-height: 1.55;
+  }
+
+  .role { font-size: 16px; }
+  .positioning { font-size: 15px; }
+  h2 { font-size: 13px; }
+  h3,
+  .capability-group h3 { font-size: 16px; }
+
+  .capability-group li,
+  .deployment-evidence li,
+  .achievements li,
+  .system-card > p:not(.system-subtitle):not(.validation),
+  .system-card li,
+  .publication-group li,
+  .education-entry p,
+  .technical-environment p,
+  .technical-environment dd,
+  .technical-environment li {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .document-label,
+  .experience-role,
+  .experience-period,
+  .system-subtitle,
+  .validation,
+  .publication-focus,
+  .resume-footer {
+    font-size: 13px;
+  }
 }
