@@ -4,15 +4,20 @@ _Last reviewed: 2026-08-25_
 
 ## Current strategic conclusion
 
-Do **not** route this effort through an entry-level laboratory requisition merely because one is open. The stronger route is a direct technology / AI leadership conversation grounded in a company-specific problem statement and the canonical professional record.
+Do **not** route this effort through an entry-level laboratory requisition merely because one is open. The stronger route is a direct technology / AI / R&D leadership conversation grounded in a company-specific problem statement and the canonical professional record.
 
-The former **Director, AI Adoption and Value Realization** posting is useful as organization-map evidence, but LinkedIn currently displays **“No longer accepting applications.”** Treat the role as evidence of the AI operating model, not as the destination.
+Two recent Sherwin-Williams postings are especially useful as organization-map evidence:
 
-## What the closed Director posting reveals
+1. **Director, AI Adoption and Value Realization** — exposes the enterprise AI operating model, governance interfaces, measurement language, and cross-functional ownership structure.
+2. **R&D- Digital Knowledge Transformation Manager** — exposes the exact R&D knowledge/data workflow where the scientific-integrity thesis becomes concrete.
+
+Public job-board availability states are volatile and conflicting. The strategy should therefore use these postings as evidence of organizational intent while rechecking live status immediately before any formal application.
+
+## Signal 1 — Director, AI Adoption and Value Realization
 
 Source: https://www.linkedin.com/jobs/view/director-ai-adoption-and-value-realization-at-sherwin-williams-4444211457
 
-The posting says the role partnered closely with:
+The posting says the role partners closely with:
 
 - the SVP, Global AI Transformation;
 - the VP, AI Center of Excellence;
@@ -22,7 +27,7 @@ The posting says the role partnered closely with:
 - Finance, HR, Communications, Risk, Legal, Cyber, and ETG; and
 - Responsible AI / governance functions.
 
-Its responsibilities included:
+Its responsibilities include:
 
 - AI adoption strategy and change activation;
 - KPI / measurement framework ownership;
@@ -34,9 +39,41 @@ Its responsibilities included:
 
 ### Fit interpretation
 
-This vocabulary is useful because it shows where the scientific-AI integrity thesis must land: not as a generic “AI in the lab” idea, but as a **value-realization + governance + technical architecture** problem that crosses the AI organization and R&D.
+This vocabulary shows where the scientific-AI integrity thesis must land: not as a generic “AI in the lab” idea, but as a **value-realization + governance + technical architecture** problem that crosses the AI organization and R&D.
 
 The canonical record aligns strongly on AI systems, governance, provenance, human review, consulting, technology modernization, production delivery, and MBA-level strategy. It should **not** claim direct ownership of a comparable Fortune 500-scale change-management / enterprise-adoption program where that evidence is absent.
+
+## Signal 2 — R&D- Digital Knowledge Transformation Manager
+
+Recent public sources describe this Minneapolis-based General Industrial R&D role as responsible for transforming R&D technical knowledge and data into standardized, reusable, machine-readable formats for analytics and AI enablement.
+
+The described responsibilities include:
+
+- organizing technical documents, experimental findings, test results, and historical R&D knowledge;
+- extracting, cleansing, validating, and maintaining structured and unstructured data;
+- governing data capture, quality, accessibility, and long-term usability;
+- establishing repositories, metadata, taxonomies, and data standards;
+- partnering with R&D, Digital, IT, and AI/ML teams;
+- supporting RAG, predictive modeling, and other AI initiatives;
+- evaluating AI-enabled outputs and improving R&D workflows; and
+- consolidating and transforming legacy technical information.
+
+### Why this matters
+
+This posting independently confirms that Sherwin-Williams is working directly on the class of problem discussed in the outreach thesis.
+
+The opportunity is not to object to cleansing, standardization, RAG, predictive modeling, or AI-assisted knowledge retrieval. Those capabilities can be highly valuable. The question is whether the architecture preserves the scientific meaning and lineage of the underlying record while those transformations occur.
+
+Examples of controls worth pressure-testing include:
+
+- Was a value directly observed, deterministically calculated, manually inferred, or AI-inferred?
+- Was a label present in the original experiment record or introduced later during structuring?
+- Were exclusions and outlier decisions recorded as transformations rather than silently disappearing from the usable dataset?
+- Can a generated summary be traced to exact source observations and conflicting notes?
+- Can machine-inferred metadata be distinguished from contemporaneously recorded metadata?
+- Can an AI-generated hypothesis later re-enter research notes without becoming circular support for itself?
+
+This role therefore strengthens the outreach case substantially: Sherwin-Williams is not merely adopting generic enterprise AI; it is actively confronting the transformation of scientific knowledge into AI-usable assets.
 
 ## Sherwin-Williams R&D scale
 
@@ -67,7 +104,7 @@ LinkedIn: https://www.linkedin.com/in/steve-revnew-136ba93
 
 Current public sources identify Steve Revnew as **Senior Vice President, Global Technology Platforms**.
 
-Useful background signal: his career has crossed R&D, product development / product innovation, marketing / business leadership, and technology-platform leadership. That makes him a strong first target for a proposal whose value proposition spans science, technology, IP, and business rather than fitting neatly inside one existing laboratory role.
+Useful background signal: his career has crossed chemistry/R&D, product development / product innovation, marketing / business leadership, and technology-platform leadership. That makes him a strong first target for a proposal whose value proposition spans science, technology, IP, and business rather than fitting neatly inside one existing laboratory role.
 
 ## Target 2 — Courtney Eason
 
@@ -89,7 +126,7 @@ Use only when it strengthens company-specific intent:
 - Candidate recalls the interviewer saying the lab position might become boring and suggesting corporate management instead.
 - Candidate originally interpreted the lack of rerouting as rejection; current interpretation is that it may have been a role-fit signal.
 - Candidate later applied to the in-store Management & Sales Training Program through family advice, but now considers that another poor role-fit route.
-- Current outreach should therefore be explicitly about **Sherwin-Williams as the company**, while allowing technology / AI leadership to determine the appropriate role or engagement structure.
+- Current outreach should therefore be explicitly about **Sherwin-Williams as the company**, while allowing technology / AI / R&D leadership to determine the appropriate role or engagement structure.
 
 ## Core scientific-AI risk
 
