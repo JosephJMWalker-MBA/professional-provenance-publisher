@@ -1,0 +1,55 @@
+{
+  "company": "Sherwin-Williams",
+  "initiative": "AI / R&D Scientific Integrity and Value Realization",
+  "prepared_date": "2026-08-25",
+  "status": "Strategic outreach package prepared; routing evidence refreshed",
+  "organization_signals": [
+    {
+      "title": "Director, AI Adoption and Value Realization",
+      "url": "https://www.linkedin.com/jobs/view/director-ai-adoption-and-value-realization-at-sherwin-williams-4444211457",
+      "status_note": "Public job sources show conflicting availability states on 2026-08-25. The outreach strategy does not depend on this requisition being open.",
+      "use": "Organization-map evidence for AI CoE, value realization, governance, risk, technology, Finance, Legal, Cyber, and executive-reporting interfaces."
+    },
+    {
+      "title": "R&D- Digital Knowledge Transformation Manager",
+      "location": "Minneapolis, Minnesota",
+      "status_note": "Recent public job sources continue to surface the role; availability should be rechecked immediately before any formal application.",
+      "use": "Direct evidence that Sherwin-Williams is organizing, cleansing, validating, standardizing, and structuring R&D technical knowledge for AI-enabled retrieval, RAG, predictive modeling, and digital transformation.",
+      "strategic_relevance": "This is precisely the workflow class where evidence status, provenance, transformation lineage, note/data feedback, and AI-generated interpretation require explicit controls."
+    }
+  ],
+  "target_route": [
+    {
+      "name": "Steve Revnew",
+      "role": "Senior Vice President, Global Technology Platforms",
+      "linkedin": "https://www.linkedin.com/in/steve-revnew-136ba93",
+      "reason": "Technology-platform leadership with a career spanning chemistry/R&D, product development, innovation, and business leadership."
+    },
+    {
+      "name": "Courtney Eason",
+      "role": "Senior Director, AI Technology",
+      "linkedin": "https://www.linkedin.com/in/easoncourtney",
+      "reason": "Current AI technology leader building Sherwin-Williams' AI capability and a natural technical owner for pressure-testing the scientific-AI integrity thesis."
+    }
+  ],
+  "source_resume": "../../data/resume.json",
+  "source_repository": "https://github.com/JosephJMWalker-MBA/professional-provenance-publisher",
+  "strategy": "Approach Sherwin-Williams through technology/AI/R&D leadership with a company-specific scientific-integrity thesis rather than forcing the candidate into an entry-level laboratory role. Use current/recent AI and R&D transformation postings as evidence that the organizational problem already exists. Seek a conversation about the right structure: internal role, cross-functional innovation responsibility, formal application to an aligned transformation role, or scoped advisory/pilot engagement.",
+  "truth_boundary": [
+    "Do not claim direct ownership of a Fortune 500-scale enterprise AI adoption program unless independently supported by evidence.",
+    "Do not claim production Microsoft Copilot, Copilot Studio, Power BI, or Azure AI Foundry experience unless independently verified.",
+    "Twelve-plus years refers to consulting, business strategy, technology modernization, and founder-led operating experience beginning in 2014; it is not represented as twelve-plus years inside a large-enterprise AI office.",
+    "The scientific-integrity thesis is a proposed risk/opportunity framework, not a claim that Sherwin-Williams currently has a defective AI or R&D process.",
+    "The father's Sherwin-Williams history is intentionally described generically as senior technology leadership; no exact title is asserted here.",
+    "The prior Sherwin-Williams interview story is based on the candidate's recollection and is presented as personal history, not independently verified corporate record.",
+    "Public job-board availability states are treated as volatile and are not represented as authoritative unless rechecked at the moment of application."
+  ],
+  "assets": [
+    "resume.html",
+    "outreach-letter.html",
+    "executive-thesis.md",
+    "outreach-messages.md",
+    "research-notes.md"
+  ],
+  "privacy_note": "This repository and branch are public. Do not add sensitive recruiter notes, demographic information, private referral details, or confidential application responses."
+}
