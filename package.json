@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Source-controlled professional provenance publisher for resume, portfolio, links, PDF, and machine-readable profile outputs.",
   "scripts": {
-    "test": "node scripts/test-renderer.mjs && node scripts/test-normalize-profile.mjs && node scripts/test-links-renderer.mjs && node scripts/test-portfolio-renderer.mjs",
+    "test": "node scripts/test-renderer.mjs && node scripts/test-resume-format-policy.mjs && node scripts/test-normalize-profile.mjs && node scripts/test-links-renderer.mjs && node scripts/test-portfolio-renderer.mjs",
     "build": "node scripts/build-html.mjs && node scripts/build-links.mjs && node scripts/build-portfolio.mjs",
     "test:generated": "node scripts/test-generated-output.mjs",
     "verify": "npm test && npm run build && npm run test:generated",
