@@ -1,6 +1,6 @@
 @page {
   size: Letter;
-  margin: 0;
+  margin: 0.68in 0.72in;
 }
 
 :root {
@@ -31,107 +31,183 @@ body {
 
 .surface-nav { display: none; }
 
+/*
+ * Print pages must flow naturally. The browser owns pagination.
+ * Fixed-height page buckets, overflow clipping, and forced section breaks are
+ * intentionally prohibited because they create sparse pages and hide content.
+ */
 .page {
   background: #ffffff;
   box-shadow: none;
-  height: 11in;
+  height: auto;
+  min-height: 0;
   margin: 0;
-  overflow: hidden;
-  padding: 0.43in 0.50in 0.40in;
-  page-break-after: always;
-  width: 8.5in;
+  overflow: visible;
+  padding: 0;
+  width: auto;
 }
 
-.page:last-child { page-break-after: auto; }
+.masthead {
+  border-bottom: 1.5px solid var(--navy);
+  padding-bottom: 0.10in;
+}
 
-.masthead { padding-bottom: 0.12in; }
-.document-label { font-size: 8.4px; margin-bottom: 0.052in; }
+.document-label {
+  font-size: 8.5pt;
+  margin-bottom: 0.04in;
+}
+
 .identity h1,
-h1 { font-size: 24.5px; line-height: 1.02; }
-.role { font-size: 11.4px; margin-top: 0.052in; }
-.positioning { font-size: 10.55px; line-height: 1.32; margin-top: 0.065in; }
-address { font-size: 9px; line-height: 1.35; margin-top: 0.065in; }
+h1 {
+  font-size: 21pt;
+  line-height: 1.05;
+}
+
+.role {
+  font-size: 11pt;
+  margin-top: 0.04in;
+}
+
+.positioning {
+  font-size: 10pt;
+  line-height: 1.35;
+  margin-top: 0.05in;
+}
+
+address {
+  font-size: 9.5pt;
+  line-height: 1.35;
+  margin-top: 0.05in;
+}
 
 section:not(.page),
-.resume-footer { margin-top: 0.16in; }
-
-h2 {
-  font-size: 9.45px;
-  gap: 0.078in;
-  margin-bottom: 0.07in;
+.resume-footer {
+  margin-top: 0.14in;
 }
 
-h3 { font-size: 10.9px; }
+h2 {
+  font-size: 10.5pt;
+  gap: 0.07in;
+  margin-bottom: 0.06in;
+  break-after: avoid-page;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 10.25pt;
+  break-after: avoid-page;
+  page-break-after: avoid;
+}
 
 p,
 li,
 span,
 dd,
 dt {
-  font-size: 9.65px;
-  line-height: 1.34;
+  font-size: 10pt;
+  line-height: 1.32;
 }
 
-p { margin-bottom: 0.046in; }
-ul { margin-top: 0.032in; padding-left: 0.155in; }
-li { margin-bottom: 0.024in; }
+p { margin-bottom: 0.04in; }
+ul { margin-top: 0.025in; padding-left: 0.18in; }
+li { margin-bottom: 0.025in; }
 
-.executive-profile p { font-size: 10px; line-height: 1.4; }
+.executive-profile p {
+  font-size: 10pt;
+  line-height: 1.38;
+  margin: 0;
+}
+
+.experience-item,
+.system-card,
+.education-entry,
+.capability-group,
+.technical-group {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
 
 .experience-item {
-  margin-bottom: 0.10in;
-  padding-left: 0.10in;
+  border-left: 1.5px solid var(--rule);
+  margin-bottom: 0.09in;
+  padding-left: 0.09in;
 }
 
-.experience-role { font-size: 9px; }
-.experience-period { font-size: 8.7px; }
-.experience-item ul { gap: 0.008in; }
+.experience-role { font-size: 9.5pt; }
+.experience-period { font-size: 9.25pt; }
+.experience-item ul { gap: 0; }
 
-.capabilities { gap: 0.078in 0.155in; }
-.capability-group { padding: 0.06in 0.08in 0.055in; }
-.capability-group h3 { font-size: 9.45px; margin-bottom: 0.032in; }
-.capability-group li { font-size: 8.45px; line-height: 1.24; }
-
-.deployment-evidence ul,
-.achievements ul {
-  display: grid;
-  gap: 0.035in 0.155in;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  margin-top: 0;
+.capability-group {
+  background: transparent;
+  border-top: 0;
+  padding: 0;
 }
 
+.capability-group h3 {
+  font-size: 9.75pt;
+  margin-bottom: 0.025in;
+}
+
+.capability-group li,
 .deployment-evidence li,
-.achievements li { font-size: 8.55px; line-height: 1.25; }
+.achievements li {
+  font-size: 9.5pt;
+  line-height: 1.28;
+}
 
-.systems { gap: 0.095in 0.155in; }
-.system-card { padding-top: 0.065in; }
-.system-card h3 { font-size: 11.1px; }
-.system-subtitle { font-size: 7.95px; margin: 0.017in 0 0.043in; }
-.system-card > p:not(.system-subtitle):not(.validation) { font-size: 8.55px; line-height: 1.3; }
-.system-card ul { column-gap: 0.135in; margin-top: 0.028in; }
-.system-card li { font-size: 7.85px; line-height: 1.21; margin-bottom: 0.016in; }
-.validation { font-size: 7.9px; margin: 0.016in 0 0.032in; padding: 0.024in 0.047in; }
+.system-card {
+  border-top: 1px solid var(--rule);
+  padding-top: 0.06in;
+}
 
-.publications { gap: 0.06in 0.155in; }
-.publication-group h3 { font-size: 8.85px; margin-bottom: 0.032in; }
-.publication-group li { font-size: 7.8px; line-height: 1.21; }
-.publication-focus { font-size: 7.9px; line-height: 1.22; }
+.system-card h3 { font-size: 10.5pt; }
+.system-subtitle {
+  font-size: 8.75pt;
+  margin: 0.015in 0 0.035in;
+}
+.system-card > p:not(.system-subtitle):not(.validation) {
+  font-size: 9.5pt;
+  line-height: 1.32;
+}
+.system-card ul { margin-top: 0.025in; }
+.system-card li {
+  font-size: 9.25pt;
+  line-height: 1.28;
+  margin-bottom: 0.02in;
+}
+.validation {
+  background: transparent;
+  border-left: 2px solid var(--navy-2);
+  font-size: 8.75pt;
+  margin: 0.015in 0 0.03in;
+  padding: 0 0 0 0.05in;
+}
 
-.education { gap: 0.065in 0.145in; }
-.education-entry { padding-left: 0.078in; }
-.education-entry h3 { font-size: 9.35px; }
-.education-entry p { font-size: 7.9px; line-height: 1.22; margin-bottom: 0.016in; }
-
-.technical-environment { gap: 0.05in 0.145in; }
-.technical-environment h3,
-.technical-environment dt { font-size: 8.35px; }
+.publication-group h3 { font-size: 9.75pt; margin-bottom: 0.025in; }
+.publication-group li,
+.education-entry p,
+.publication-focus,
 .technical-environment p,
 .technical-environment dd,
-.technical-environment li { font-size: 7.85px; line-height: 1.22; }
+.technical-environment li {
+  font-size: 9.25pt;
+  line-height: 1.28;
+}
+
+.education-entry {
+  border-left: 1.5px solid var(--rule);
+  padding-left: 0.075in;
+}
+.education-entry h3 { font-size: 10pt; }
+
+.technical-environment h3,
+.technical-environment dt { font-size: 9.5pt; }
 
 .resume-footer {
-  font-size: 7.75px;
-  padding-top: 0.055in;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 8.5pt;
+  padding-top: 0.05in;
 }
 
 @media print {
