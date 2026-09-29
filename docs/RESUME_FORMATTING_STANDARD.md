@@ -67,6 +67,40 @@ Optional publications / awards only when materially relevant
 
 The exact order may change when the opportunity makes another section more important.
 
+## Functional role-title projection
+
+Opportunity-specific resumes should describe **the work performed**, not default to ownership status.
+
+The canonical professional record may preserve legal, ownership, or executive titles such as `Founder`, `Principal`, or `Managing Director` because those titles are part of the historical record. A recruiter-facing derivative has a different job: make the candidate's relevant functional experience legible for the role being filled.
+
+Default rule:
+
+> **If an ownership title is not materially relevant to the posting, replace it on the opportunity-specific resume with a truthful functional title that describes the work actually performed.**
+
+Examples of acceptable projection:
+
+- `Founder & Principal` -> `Operations & Inspection Systems Lead` when the evidence supports operational workflow, quality, inspection, and reporting work;
+- `Founder & Managing Director` -> `AI Systems Architect` or `Software Engineer` when those are the functions actually being presented;
+- `Founder & Consultant` -> `Process Improvement Consultant`, `Business Systems Consultant`, or another evidence-supported consulting function when that better matches the opportunity.
+
+The functional title is a **presentation label for the work**, not a claim that an outside employer formally assigned that exact title.
+
+Requirements:
+
+- preserve the true organization and dates;
+- choose a title supported by the actual work and bullets shown;
+- optimize for the specific job function being hired;
+- do not inflate seniority, scope, people management, budget authority, credentials, or domain tenure;
+- do not use `Founder`, `Principal`, `Owner`, or `Managing Director` merely because it is technically true if it distracts from the work the employer is hiring for;
+- if ownership status is itself relevant, it may remain or be noted secondarily;
+- the bullets must substantiate the projected title.
+
+A useful test is:
+
+> **If the organization had hired someone else to perform only the work shown in these bullets, what truthful job title would describe that job?**
+
+Use that title.
+
 ## Anti-wall-of-text rules
 
 Dense prose is a formatting defect even when every sentence is accurate.
