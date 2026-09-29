@@ -149,8 +149,11 @@ A generated opportunity-specific professional artifact may:
 - order;
 - shorten;
 - expand with already-reviewed context;
-- translate presentation terminology where factually equivalent; and
-- reframe emphasis for an audience.
+- translate presentation terminology where factually equivalent;
+- reframe emphasis for an audience; and
+- project a canonical ownership/executive role into an evidence-supported **functional work title** when that makes the actual work more legible to the opportunity.
+
+Functional role-title projection must preserve the organization and dates and remain supported by the underlying work. It does not authorize invented employment history or a false claim that an external employer formally assigned the projected title. Ownership labels such as `Founder`, `Principal`, or `Managing Director` should not be forced onto every opportunity derivative when the employer is hiring for one specific function.
 
 It may not create a new professional fact merely because a requirement would benefit from it.
 
