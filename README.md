@@ -212,6 +212,18 @@ It verifies that:
 
 External-link validity, factual accuracy, visual acceptance, accessibility review, and the evidentiary strength of professional claims remain separate review responsibilities.
 
+## Opportunity-specific role-title rule
+
+The canonical record may preserve ownership or executive titles, but a tailored resume should normally present the **functional job actually performed** when that is more relevant to the opportunity.
+
+For example, a canonical `Founder & Principal` record may render as an evidence-supported operations, engineering, consulting, or systems title when the bullets demonstrate that work. The organization and dates remain truthful; the projected title must be grounded in the actual responsibilities and must not inflate seniority or imply an externally assigned title that did not exist.
+
+The practical rule is:
+
+> **The employer is hiring for a job function. Show the function the candidate actually performed, not the ownership hat by default.**
+
+See `docs/RESUME_FORMATTING_STANDARD.md` for the normative policy.
+
 ## Design and Governance Principles
 
 - Evidence before claims.
