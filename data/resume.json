@@ -2,8 +2,8 @@
   "identity": {
     "name": "Joseph Jeremy Michael Walker, MBA",
     "documentLabel": "Executive Technical Resume",
-    "title": "AI Systems Architect • Software Engineer • Technical Strategist",
-    "positioning": "Builds production AI and software systems with explicit governance, provenance, testing, and human-in-the-loop controls."
+    "title": "AI Systems Architect • Technical Lead • Applied AI & Software Engineering",
+    "positioning": "End-to-end AI and software systems architecture, technical leadership, trustworthy AI evaluation, reliability engineering, and production delivery."
   },
   "contact": {
     "location": "Canton, Ohio",
@@ -14,37 +14,41 @@
     "tdc": "https://www.tdcommons.org/dpubs_series/10374"
   },
   "executiveProfile": [
-    "AI systems architect, software engineer, and MBA-trained technology strategist who moves from problem definition through architecture, implementation, deployment, and validation. Builds production applications and governance-oriented AI systems across knowledge work, commerce, inspection, decision support, and research, with a consistent emphasis on auditability, provenance, deterministic controls, and human judgment."
+    "AI systems architect and MBA-trained technical lead delivering products from requirements and architecture through implementation, verification, and release. Shipped iOS applications and deployed web systems; developed governed AI platforms with deterministic controls, provenance, human review, and recovery-aware testing."
   ],
   "experience": [
     {
       "organization": "729 LLC",
-      "role": "Founder & Managing Director",
+      "role": "AI Systems Architect & Technical Lead",
       "period": "2019–Present",
       "highlights": [
-        "Lead a portfolio of AI, software, knowledge-system, education, media, and operational ventures from concept through deployment.",
-        "Architect Python and TypeScript systems that combine probabilistic AI with deterministic workflows, provenance controls, testing, and human review.",
-        "Translate emerging AI capabilities into product architecture, governance frameworks, technical documentation, operating standards, and validation plans."
-      ]
+        "Lead end-to-end architecture and technical delivery across applied AI, software products, knowledge systems, and operational tools—from requirements and design decisions to implementation and release.",
+        "Design governed AI workflows with deterministic policy boundaries, source-of-truth controls, provenance, human review, and evaluation criteria.",
+        "Establish risk-based quality engineering: automated regression suites, fault injection, CI/CD checks, failure analysis, and reproducible release evidence.",
+        "Coordinate cross-platform implementation and validation across Python, TypeScript, web services, and Swift/iOS applications."
+      ],
+      "recordedTitle": "Founder & Managing Director"
     },
     {
       "organization": "Aerial Inspections LLC",
-      "role": "Founder & Principal",
+      "role": "Inspection Systems & Operations Lead",
       "period": "2024–Present",
       "highlights": [
-        "Designed operational software and repeatable workflows for FAA Part 107 aerial inspection, evidence capture, visual and thermal reporting, and client documentation.",
-        "Built quality-assurance and service-boundary practices around remote sensing, thermal imaging, RTK mapping, reporting, and infrastructure documentation.",
-        "Bring more than a decade of drone flight experience to field operations, product design, and inspection-system development."
-      ]
+        "Design evidence-capture, visual/thermal reporting, and repeatable inspection workflows for FAA Part 107 operations.",
+        "Define quality-assurance procedures, service boundaries, RTK/remote-sensing data handling, and client-ready technical reporting.",
+        "Apply field-operations experience to inspection-system design and practical workflow requirements."
+      ],
+      "recordedTitle": "Founder & Principal"
     },
     {
       "organization": "Masters Consulting Group",
-      "role": "Founder & Consultant",
+      "role": "Business Systems & Technology Strategy Consultant",
       "period": "2014–Present",
       "highlights": [
-        "Advise on technology modernization, process improvement, AI adoption, organizational design, and operational effectiveness.",
-        "Convert ambiguous business problems into workflows, standards, technical requirements, decision-support tools, and implementation plans."
-      ]
+        "Translate ambiguous business needs into requirements, process maps, technology roadmaps, implementation plans, and measurable operating workflows.",
+        "Advise on AI adoption, technical modernization, organizational decision support, and process improvement with governance and operational constraints."
+      ],
+      "recordedTitle": "Founder & Consultant"
     }
   ],
   "capabilities": [
@@ -52,12 +56,13 @@
       "group": "AI & Applied ML",
       "items": [
         "AI Engineering",
-        "Retrieval-Augmented Generation",
-        "Computer Vision",
+        "Agentic AI / Multi-Agent Systems",
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Evaluation & Benchmarking",
+        "Human-in-the-Loop Systems",
         "Natural Language Processing",
-        "Multi-Agent Systems",
-        "AI Evaluation",
-        "Human-AI Collaboration"
+        "Computer Vision",
+        "Model Governance"
       ]
     },
     {
@@ -65,38 +70,39 @@
       "items": [
         "Python",
         "TypeScript",
-        "Dart",
-        "Swift",
+        "Swift / SwiftUI",
         "JavaScript",
-        "Flutter",
-        "React",
-        "Next.js",
+        "Dart / Flutter",
+        "React / Next.js",
         "REST APIs",
-        "SQL"
+        "SQL",
+        "API & Application Integration"
       ]
     },
     {
       "group": "Architecture & Governance",
       "items": [
-        "Software Architecture",
-        "Distributed Systems",
-        "Provenance-Aware Computing",
-        "AI Governance",
-        "Auditability",
-        "Knowledge Systems",
-        "Workflow Automation"
+        "Systems Architecture",
+        "Technical Leadership",
+        "Solution Architecture",
+        "Requirements Engineering",
+        "Architecture Decision Records",
+        "Provenance & Auditability",
+        "Deterministic Policy Controls",
+        "AI Governance"
       ]
     },
     {
-      "group": "Delivery & Operations",
+      "group": "Delivery & Reliability",
       "items": [
-        "Product Architecture",
-        "Technical Strategy",
+        "End-to-End Product Delivery",
         "Automated Testing",
-        "CI/CD",
-        "Production Deployment",
-        "Technical Documentation",
-        "Quality Assurance"
+        "Verification & Validation",
+        "Risk-Based QA",
+        "Fault Injection & Regression Testing",
+        "CI/CD & Release Engineering",
+        "Data Integrity & Recovery",
+        "Technical Documentation"
       ]
     }
   ],
@@ -113,12 +119,12 @@
         "links": true
       },
       "highlights": [
-        "Python",
-        "CLI / API / web surfaces",
-        "Provenance-tagged interpretive ledger",
-        "Semantic contracts",
+        "Governed AI system architecture",
+        "Python / CLI / API / web",
+        "Provenance-tagged evidence ledger",
+        "Semantic and evaluation contracts",
         "Human-in-the-loop stewardship",
-        "Deterministic critic/evaluation boundaries"
+        "Automated verification and ADRs"
       ]
     },
     {
@@ -132,11 +138,11 @@
         "links": true
       },
       "highlights": [
-        "Next.js 15 / TypeScript",
+        "Next.js / TypeScript",
         "Prisma / MySQL",
-        "Tesseract OCR",
-        "Append-only revisions",
-        "SHA-256 / HMAC integrity metadata",
+        "OCR-assisted extraction",
+        "Deterministic policy evaluation",
+        "Append-only review evidence",
         "Vitest / Playwright"
       ]
     },
@@ -209,8 +215,8 @@
     },
     {
       "name": "Big Joke",
-      "subtitle": "Comedy Performance Workflow Platform",
-      "summary": "Designed and released a comedy workflow application for organizing sets, practicing delivery, capturing performances without a self-view distraction, and logging performance feedback.",
+      "subtitle": "Published iOS Product & Performance Workflow Engineering",
+      "summary": "Released an iOS comedy-workflow application through the App Store; continuing post-release architecture, test automation, timing, recording-lifecycle, accessibility, and preservation improvements in a separately validated development branch.",
       "url": "https://apps.apple.com/us/app/big-joke/id6771604436",
       "surfaces": {
         "resume": true,
@@ -218,12 +224,12 @@
         "links": true
       },
       "highlights": [
-        "Set organization",
-        "Teleprompter / practice",
-        "Blind / no-mirror recording",
-        "Voice / Siri capture",
-        "Performance logging",
-        "Production mobile delivery"
+        "Swift / SwiftUI / AVFoundation",
+        "App Store release and iterative delivery",
+        "Performance timing and interaction state",
+        "XCTest / Swift Testing",
+        "Risk-based validation and accessibility",
+        "Development-stage recording preservation and recovery"
       ]
     },
     {
@@ -572,15 +578,16 @@
     "Languages": [
       "Python",
       "TypeScript",
-      "Dart",
       "Swift",
       "JavaScript",
+      "Dart",
       "SQL"
     ],
     "Mobile": [
+      "Swift / SwiftUI / iOS",
+      "AVFoundation",
       "Flutter",
-      "Swift / iOS",
-      "Apple App Store release workflows"
+      "App Store release workflows"
     ],
     "Web / Application": [
       "React",
@@ -601,23 +608,21 @@
       "LangChain"
     ],
     "Data / Tooling": [
+      "PostgreSQL / MySQL / SQLite",
       "Prisma",
-      "MySQL",
-      "SQLite",
       "Docker",
-      "Git",
-      "GitHub Actions",
-      "Playwright",
-      "Vitest"
+      "Git / GitHub Actions",
+      "XCTest / Swift Testing",
+      "Playwright / Vitest",
+      "Regression testing"
     ]
   },
   "deploymentEvidence": [
-    "Production Python application and multiple deployed full-stack web systems.",
-    "Four applications published through the Apple App Store.",
-    "Production e-commerce, payment, fulfillment, webhook, analytics, and administrative workflows.",
-    "FAA Part 107 field operations and repeatable aerial-inspection reporting workflows.",
-    "Automated test suites, CI/CD verification, release workflows, and evidence-oriented technical documentation.",
-    "Production work spanning Python, TypeScript, Swift, Dart/Flutter, computer vision, OCR, and AI-assisted decision support."
+    "Published four mobile applications through the Apple App Store; managed product implementation, testing, store submission, and post-release iteration.",
+    "Deployed full-stack commerce and operational systems with payment, fulfillment, webhooks, analytics, and administrative workflows.",
+    "Built source-controlled AI and knowledge systems with deterministic evaluation boundaries, human review, traceable artifacts, and technical decision records.",
+    "Implemented test automation, CI/CD workflows, reviewable validation evidence, and risk-based release procedures across web and iOS projects.",
+    "Designed FAA Part 107 inspection workflows with traceable evidence capture, quality assurance, and technical reporting."
   ],
   "achievements": [
     "1,127 passing automated tests in Hermeneia as of August 14, 2026.",
@@ -626,10 +631,10 @@
     "MBA with 97th-percentile national comprehensive assessment; Magna Cum Laude undergraduate degree; FAA Part 107 Remote Pilot."
   ],
   "principles": [
-    "Design AI systems that remain understandable, auditable, and accountable.",
-    "Separate deterministic infrastructure from probabilistic inference.",
-    "Preserve provenance and chain of custody for decision-critical information.",
-    "Build technology that augments human judgment rather than replacing it."
+    "Lead with explicit requirements, architectures, trade-offs, and verifiable delivery evidence.",
+    "Separate probabilistic AI inference from deterministic authorization and policy.",
+    "Preserve provenance, original material, and recoverability for decision-critical information.",
+    "Use risk-based testing, human review, and transparent failure reporting to guide releases."
   ],
   "footer": "Research → Architecture → Implementation → Deployment → Validation"
 }
