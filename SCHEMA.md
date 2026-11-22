@@ -42,7 +42,8 @@ Contact values are optional. Store only information intended for publication.
 ```json
 {
   "organization": "Organization",
-  "role": "Role",
+  "role": "Evidence-supported functional role shown on the resume",
+  "recordedTitle": "Optional historical ownership or formally held title",
   "period": "2024–Present",
   "highlights": [
     "Reviewed responsibility or outcome",
@@ -52,6 +53,8 @@ Contact values are optional. Store only information intended for publication.
 ```
 
 The publisher renders experience as presentation content. Dates, titles, responsibilities, and outcomes remain human-reviewed professional claims; the software does not independently verify them.
+
+For the owner-specific canonical record, `role` may be an evidence-supported functional projection used in recruiter-facing output, while optional `recordedTitle` retains a historical founder/ownership title without requiring it to dominate the generated resume. This field is preserved as source metadata and is not separately rendered. A functional role is not evidence of an externally assigned title, staff headcount, or people-management scope. See `docs/ROLE_KEYWORD_EVIDENCE_MAP.md` and `docs/RESUME_FORMATTING_STANDARD.md`.
 
 ## Linkable publication record
 
